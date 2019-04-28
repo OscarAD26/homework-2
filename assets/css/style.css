@@ -1,0 +1,40 @@
+h1{
+    background-color:#4aaaa5;
+    color: whitesmoke;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+body{
+    background-image: url('../images/crossline-lines.png');
+}
+#links{
+    float: left;
+}
+#photo{
+    float:left;
+    width: 15%;
+}
+section{
+    background-color: whitesmoke;
+}
+
+h2{
+    color:#4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+footer{
+    color:gray;
+    padding-top:13px;
+    border-top:8px solid #4aaaa5;
+}
+.container{
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+.px-4{
+    padding:10px 0px 10px 0px;
+}
+
+@media only screen and (min-width: 600px){
+ 
+} 
